@@ -3,3 +3,4 @@ models/
 submitted_attacks/
 __pycache__/
 .idea
+/.project
